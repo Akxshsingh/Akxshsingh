@@ -4,29 +4,17 @@
 
 <p align="center">
 
-  <a href="https://github.com/Akxshsingh?tab=stars">
-    <img src="https://img.shields.io/badge/⭐_Stars-26-black?style=for-the-badge&labelColor=black&color=black" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/Akxshsingh?tab=repositories">
-    <img src="https://img.shields.io/badge/🍴_Forks-0-black?style=for-the-badge&labelColor=black&color=black" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/Akxshsingh?tab=followers">
-    <img src="https://img.shields.io/badge/👥_Followers-11-black?style=for-the-badge&labelColor=black&color=black" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/▲_Portfolio-black?style=for-the-badge&labelColor=black&color=black" />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:akxshsingh0726@gmail.com">
-    <img src="https://img.shields.io/badge/✉_Gmail-black?style=for-the-badge&labelColor=black&color=black" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://docs.google.com/document/d/1brj5WQy662VSIxJXR9M3aZI8Gz3DEFx5/edit">
-    <img src="https://img.shields.io/badge/📄_Resume-black?style=for-the-badge&labelColor=black&color=black" />
-  </a>
+[![Stars](https://img.shields.io/badge/⭐_Stars-1-black?style=for-the-badge&labelColor=black&color=black)](https://github.com/Akxshsingh?tab=stars)
+&nbsp;
+[![Forks](https://img.shields.io/badge/🍴_Forks-0-black?style=for-the-badge&labelColor=black&color=black)](https://github.com/Akxshsingh?tab=repositories)
+&nbsp;
+[![Followers](https://img.shields.io/badge/👥_Followers-0-black?style=for-the-badge&labelColor=black&color=black)](https://github.com/Akxshsingh?tab=followers)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/▲_Portfolio-black?style=for-the-badge&labelColor=black&color=black)](https://your-portfolio-link.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/✉_Gmail-black?style=for-the-badge&labelColor=black&color=black)](mailto:akxshsingh0726@gmail.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/📄_Resume-black?style=for-the-badge&labelColor=black&color=black)](https://docs.google.com/document/d/1brj5WQy662VSIxJXR9M3aZI8Gz3DEFx5/edit)
 
 </p>
 
