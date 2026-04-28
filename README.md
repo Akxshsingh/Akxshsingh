@@ -10,7 +10,7 @@
 &nbsp;&nbsp;
 [![Followers](https://img.shields.io/badge/👥_Followers-0-black?style=for-the-badge&labelColor=black&color=black)](https://github.com/Akxshsingh?tab=followers)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/▲_Portfolio-black?style=for-the-badge&labelColor=black&color=black)](https://github.com/Akxshsingh/Akashsingh-porto/blob/main/index.html)
+[![Portfolio](https://img.shields.io/badge/▲_Portfolio-black?style=for-the-badge&labelColor=black&color=black)](https://akxshsingh.github.io/Akashsingh-porto/)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/✉_Gmail-black?style=for-the-badge&labelColor=black&color=black)](mailto:akxshsingh0726@gmail.com)
 &nbsp;&nbsp;
